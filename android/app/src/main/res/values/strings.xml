@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lily Pad Pathway</string>
+    <string name="menu_title">LILY PAD PATHWAY</string>
+    <string name="splash_subtitle">ONE STROKE · ONE FROG · ONE POND</string>
+    <string name="loading">LOADING</string>
+    <string name="tagline">TRACE ONE PATH · VISIT EVERY PAD</string>
+
+    <string name="play">PLAY</string>
+    <string name="pond_trail">POND TRAIL</string>
+    <string name="next_pond">NEXT POND</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="undo">UNDO</string>
+    <string name="reset">RESET</string>
+    <string name="hint">HINT</string>
+    <string name="resume">RESUME</string>
+    <string name="restart_pond">RESTART POND</string>
+    <string name="paused">PAUSED</string>
+    <string name="got_it">GOT IT</string>
+    <string name="cancel">CANCEL</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_progress_question">This clears every solved pond and every frog friend.</string>
+
+    <string name="settings">SETTINGS</string>
+    <string name="volume_label">VOLUME %1$d</string>
+    <string name="haptics">HAPTICS</string>
+    <string name="hints">HINTS</string>
+    <string name="hint_often">OFTEN</string>
+    <string name="hint_sometimes">SOMETIMES</string>
+    <string name="hint_never">NEVER</string>
+
+    <string name="drag_hint">DRAG FROM PAD TO PAD</string>
+    <string name="try_another_way">TRY ANOTHER WAY</string>
+    <string name="frog_friends">FROG FRIENDS</string>
+    <string name="solve_season">SOLVE A SEASON TO MEET A FROG</string>
+    <string name="new_frog_friend">NEW FROG FRIEND</string>
+    <string name="locked_name">LOCKED</string>
+    <string name="frog_hops_home">THE FROG HOPS HOME</string>
+
+    <string name="season_spring">SPRING</string>
+    <string name="season_summer">SUMMER</string>
+    <string name="season_autumn">AUTUMN</string>
+    <string name="season_winter">WINTER</string>
+
+    <string name="stat_ponds">PONDS</string>
+    <string name="stat_frogs">FROGS</string>
+    <string name="stat_pads">PADS</string>
+    <string name="stat_hints">HINTS USED</string>
+
+    <string name="value_fraction">%1$d/%2$d</string>
+    <string name="value_plain">%1$d</string>
+    <string name="pond_number">%1$d</string>
+    <string name="solved_mark">✓</string>
+    <string name="pond_header">POND %1$d · %2$s</string>
+    <string name="pads_counter">PADS %1$d/%2$d</string>
+    <string name="pond_complete">POND %1$d COMPLETE</string>
+
+    <string name="cd_frog">Frog standing on the trail head</string>
+    <string name="cd_board">Pond board with %1$d lily pads</string>
+
+    <string name="state_locked">locked</string>
+    <string name="state_open">open</string>
+    <string name="state_solved">solved</string>
+    <string name="state_current">current</string>
+    <string name="state_visited">visited</string>
+    <string name="state_free">free</string>
+    <string name="state_home_log">home log</string>
+    <string name="state_stone">stepping stone</string>
+</resources>
